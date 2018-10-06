@@ -34,7 +34,7 @@ Habit: People use it when they are planning something, use to keep track of thei
 Scope: super wide, anyone with a google account can use it.
 
 ## New App Ideas - List
-1.) Fitness tracker - Weekly progresss tracker via picture
+//1.) Fitness tracker - Weekly progresss tracker via picture
 2.) CrowdSharing music App - Allows a user to share current song with other users
 3.) Group Project streamliner
 4.) Concentration aid - Assists users with their consumption of media and their ability to focus
