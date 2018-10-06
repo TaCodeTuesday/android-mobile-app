@@ -1,10 +1,10 @@
-# Week1Activity
+## Week1Activity
 CodePath Applicant Android Mobile Development Course Fall 2018
 
-Android Mobile Dev F/W 2018
+## Android Mobile Dev F/W 2018
 Group Activity 1
 
-Favorite Existing Apps - Lists
+## Favorite Existing Apps - Lists
 Spotify
 ifunny
 Google Calendar
@@ -15,7 +15,8 @@ Netflix
 Twitch
 Slack
 
-Favorite Existing Apps - Categorize and Evaluate
+## Favorite Existing Apps - Categorize and Evaluate
+
 Name: Spotify
 Category: Music
 Mobile: Both mobile and website allows you to play music
@@ -32,7 +33,7 @@ Market: Everyone who has a busy life, likes to have their calendars populated wi
 Habit: People use it when they are planning something, use to keep track of their deadlines etc
 Scope: super wide, anyone with a google account can use it.
 
-New App Ideas - List
+## New App Ideas - List
 1.) Fitness tracker - Weekly progresss tracker via picture
 2.) CrowdSharing music App - Allows a user to share current song with other users
 3.) Group Project streamliner
