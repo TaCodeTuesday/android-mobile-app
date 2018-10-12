@@ -109,11 +109,11 @@ for the creation of comics, GIF's, memes, etc.
 
 #1.) Task’d
 
-   - **Description**: Streamlines the group project experience by Allowing members to instantly gauge/track progress in a single mobile screen. Said members are assigned tasks with deadlines by a designated leader to accomplish the group project objective. Task’d gives students the power to gauge their progress and compare it to others. This app maximizes group efficiency by organizing participation, thus allowing multi-tasking and flexible deadlines. Administrative responsibilities such as a score keeping system and failed task are delegated to Task’d that grade each member based on their performance. 
+   - **Description**: Streamlines the group project experience by Allowing members to instantly gauge/track progress in a single mobile screen. Said members are assigned tasks with deadlines by a designated leader to accomplish the group project objective. Task’d gives students the power to monitor their progress and compare it to others. This app maximizes group efficiency by organizing participation, thus allowing multi-tasking and flexible deadlines. Administrative responsibilities such as a score keeping system and failed task resolution are delegated to Task’d, which then grades each member based on their performance. 
    
    - **Category:** Productivity/Communication
    
-  - **Mobile:** Powerful management and monitoring tools being accessible while mobile is essential for critical projects. Task’d would allow users to instantly gauge their project’s progress and determine if their current course would lead to success. Task’d pushes messages/notifications/reminders to group members. Anytime a Task is completed or submitted it is updated in real-time. 
+  - **Mobile:** Powerful management and monitoring tools being accessible anywhere is essential for critical projects. Task’d would allow users to receive updates on their project’s progress and determine if their current course would lead to success. Task’d pushes messages/notifications/reminders to group members. Anytime a Task is completed or submitted it is updated in real-time. 
 
   - **Story:** Streamlines the group project and empowers members to track their progress in relation to others, monitor their results, and delegates leadership responsibilities such as deadline warnings and accountability resolution.  
 
