@@ -91,15 +91,14 @@ for the creation of comics, GIF's, memes, etc.
   
 ## New App Ideas - List
 1. Fitness tracker 
-   - Weekly progresss tracker via picture  
-2. CrowdSharing music App 
-   - Allows a user to share current song with other users  
-3. Group Project streamliner  
-4. Concentration aid 
-   - Assists users with their consumption of media and their ability to focus. Limitis the 
-websites the user can access when working on a project.  
-5. Scheduling Assistant 
+   - Allows users to share progress of weight loss, physical improvements with friends or followers. Weekly/monthly progresss tracker via picture. Users can share stories, tips, exercise routines, diets. Fosters a positive environment for healthy living and puts you in contact with like-minded users. 
+2. Group Project streamliner 
+  - Tracks project progress and displays the amount of the project each user has worked on.
+3. Concentration aid 
+   - Assists users with their consumption of media and their ability to focus. Limitis the websites/apps the user can access when working on a project or task. The user can set parameters for the limits or can let the app handle it. Parents can also have control over children's devices and allows them to set parameters for the child's devices. 
+4. Scheduling Assistant 
    - Assists user by sculpting a recommended schedule and adaptive autofill  
+5.
 
 ## Top 3 New App Ideas
 1.
