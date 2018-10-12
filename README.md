@@ -93,7 +93,7 @@ for the creation of comics, GIF's, memes, etc.
 1. Fitness tracker 
    - Allows users to share progress of weight loss, physical improvements with friends or followers. Weekly/monthly progresss tracker via picture. Users can share stories, tips, exercise routines, diets. Fosters a positive environment for healthy living and puts you in contact with like-minded users. 
 2. Group Project streamliner 
-  - Tracks project progress and displays the amount of the project each user has worked on.
+   - Tracks project progress and displays the amount of the project each user has worked on.
 3. Concentration aid 
    - Assists users with their consumption of media and their ability to focus. Limitis the websites/apps the user can access when working on a project or task. The user can set parameters for the limits or can let the app handle it. Parents can also have control over children's devices and allows them to set parameters for the child's devices. 
 4. Scheduling Assistant 
