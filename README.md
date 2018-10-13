@@ -93,47 +93,42 @@ for the creation of comics, GIF's, memes, etc.
 1. Fitness tracker 
    - Allows users to share progress of weight loss, physical improvements with friends or followers. Weekly/monthly progresss tracker via picture. Users can share stories, tips, exercise routines, diets. Fosters a positive environment for healthy living and puts you in contact with like-minded users. 
 2. Group Project streamliner 
-   - Tracks project progress and displays the amount of the project each user has worked on.
+   - Tracks project progress for each user and displays the amount of the project each user has worked on. The users at any time can see how close the project is to completion and can adjust the deadline accordingly.
 3. Concentration aid 
    - Assists users with their consumption of media and their ability to focus. Limitis the websites/apps the user can access when working on a project or task. The user can set parameters for the limits or can let the app handle it. Parents can also have control over children's devices and allows them to set parameters for the child's devices. 
 4. Scheduling Assistant 
-   - Assists user by sculpting a recommended schedule and adaptive autofill  
-5.
+   - Assists user by sculpting a recommended schedule and adaptive autofill. When entering a new task, the adaptive autofill would search for any free time in the existing schedule where the task can be added to and would wait for user prompt to add the task or not. The user can set parameters for reminders and can assign categories to tasks/appointments to easily search through existing events in the schedule.
+5. Quiz me
+   - A user can input a set number of questions into the app along with multiple answers for each question; marking the right answer for that particular question. The student can then run the quiz and test their knowledge.
 
 ## Top 3 New App Ideas
 1. Task'd - Project Streamliner
-2.
-3.
+2. Scheduling Assistant
+3. Concentration Aid
 
 ## New App Ideas - Evaluate and Categorize
-
-#1.) Task’d
-
-   - **Description**: Streamlines the group project experience by Allowing members to instantly gauge/track progress in a single mobile screen. Said members are assigned tasks with deadlines by a designated leader to accomplish the group project objective. Task’d gives students the power to monitor their progress and compare it to others. This app maximizes group efficiency by organizing participation, thus allowing multi-tasking and flexible deadlines. Administrative responsibilities such as a score keeping system and failed task resolution are delegated to Task’d, which then grades each member based on their performance. 
-   
+1. Task’d
+   - **Description:** Streamlines the group project experience by Allowing members to instantly gauge/track progress in a single mobile screen. Said members are assigned tasks with deadlines by a designated leader to accomplish the group project objective. Task’d gives students the power to monitor their progress and compare it to others. This app maximizes group efficiency by organizing participation, thus allowing multi-tasking and flexible deadlines. Administrative responsibilities such as a score keeping system and failed task resolution are delegated to Task’d, which then grades each member based on their performance.
    - **Category:** Productivity/Communication
-   
-  - **Mobile:** Powerful management and monitoring tools being accessible anywhere is essential for critical projects. Task’d would allow users to receive updates on their project’s progress and determine if their current course would lead to success. Task’d pushes messages/notifications/reminders to group members. Anytime a Task is completed or submitted it is updated in real-time. 
+   - **Mobile:** Powerful management and monitoring tools being accessible anywhere is essential for critical projects. Task’d would allow users to receive updates on their project’s progress and determine if their current course would lead to success. Task’d pushes messages/notifications/reminders to group members. Anytime a Task is completed or submitted it is updated in real-time. 
+   - **Story:** Streamlines the group project and empowers members to track their progress in relation to others, monitor their results, and delegates leadership responsibilities such as deadline warnings and accountability resolution.  
+   - **Market:** Any individual working on a project could use this product( i.e. Grade schools, colleges, corporations, non-profits, professional users, niche groups ). Monetization can be determined by group and project size. 
+   - **Habit:** Group members should be checking the app daily to monitor progress, answer notifications/messages, and submit documents/completed work.
+   - **Scope:** V1 would allow members to form groups, set tasks, and score participation grades based on who completed which tasks. This could be tested within TaCode Tuesday for implementation. V2  would incorporate an in-depth data field of user’s current progress and upcoming deadlines for tasks.  V3 would add a forum allowing for students to message/notify one another and post critical documents to delegate onto other members. This would allow free flow of communication/ideas and collaboration. . V4 would delegate difficult leadership such as finding a resolution for a missed deadline, resolution seeking for failed tasks, and reminders of critical functions to be performed.
 
-  - **Story:** Streamlines the group project and empowers members to track their progress in relation to others, monitor their results, and delegates leadership responsibilities such as deadline warnings and accountability resolution.  
-
-  - **Market:** Any individual working on a project could use this product( i.e. Grade schools, colleges, corporations, non-profits, professional users, niche groups ). Monetization can be determined by group and project size. 
-   
-  - **Habit:** Group members should be checking the app daily to monitor progress, answer notifications/messages, and submit documents/completed work.
-  
-  - **Scope:** V1 would allow members to form groups, set tasks, and score participation grades based on who completed which tasks. This could be tested within TaCode Tuesday for implementation. V2  would incorporate an in-depth data field of user’s current progress and upcoming deadlines for tasks.  V3 would add a forum allowing for students to message/notify one another and post critical documents to delegate onto other members. This would allow free flow of communication/ideas and collaboration. . V4 would delegate difficult leadership such as finding a resolution for a missed deadline, resolution seeking for failed tasks, and reminders of critical functions to be performed.
-
-2.
-  - **Category:**
-  - **Mobile:**
-  - **Story:**
-  - **Market:**
-  - **Habit:**
-  - **Scope:**
-3.
-  - **Category:**
-  - **Mobile:**
-  - **Story:**
-  - **Market:**
-  - **Habit:**
-  - **Scope:**
+2. Schedule me
+   - **Description:** Allows a user to set up events in a schedule either by day, multiple days, weeks, or months at the same time. The user can also enter events they want scheduled and the app can automatically place the events in the schedule by finding free time for the user, the user can also set parameters for the search.
+   - **Category:** Productivity
+   - **Mobile:** Website and mobile can both have the same focus. Desktop could be prioritized for scheduling and mobile can be streamlined for on the go adjustments and reminders.
+   - **Story:** Streamlines the scheduling of calendar events and allows the app to search for free time to schedule new events so the user doesn't have to spend time scheduling them.
+   - **Market:** Students that want to maximize their study time and find free time during the day to study, busy executives, managers, virtually anyone who has a busy schedule.
+   - **Habit:** Users will be able to check the schedule at anytime on mobile and desktop. Since the schedule is on mobile they can look at it during the day.
+   - **Scope:** V1 App can let the user enter events accross multiple days and the app can find free time in the schedule where new events can be added. V2 Multiple parameters can be added for the automatic scheduling. V3 Schedule can be shared with multiple users. V4 Schedule can be imported to differet calendars.
+3. Concentrate!
+   - **Description:** Allows users to limit use of devices or apps during an activity such as reading, studying, or any other time the user does not want to be distracted. The user can enter the time they want the device to be locked for and it could show a timer. The user can select an alert when the time is up such as a sound, vibration or screen alert. During the time the phone is locked, notifications will not show up unless it is an emergency. User can set up auto-reply custom messages. Users can also limit how long they use an app for and limit the use of apps at a certain time, for example when a user usually goes to bed. 
+   - **Category:** Education
+   - **Mobile:** Mobile and tablet first, could be used for desktop. Mobile and tablet are the focus since these devices are available to users during the day, especially mobile since users have the devices with them at all times.
+   - **Story:** It allows users to monitor and adjust their usage of devices and apps for themselves or others.By lockig the device it would force the user to not access the device or use it for too long.
+   - **Market:** People who have an addiction to technology and can't seem to put a device down, students, parents who want to limit the amount of time their children use a device or use an app, anyone who wants to limit the time they use a device or an app for.
+   - **Habit:** The user would only need to open the app when setting up the restrictions or limitations and they would be applied automatically. The user would only then need to open the app when modifying the settings.
+   - **Scope:** V1 would allow a user to lock a device for a certain period of time and limit the usage of an app for a certain period of time. Would allow emergency notifications to go through, type of alert can be selected. V2 would allow the user to set up a schedule to put restrictions on the phone at the same time or different times everyday. V3 would allow the user to monitor the amount of time a device or app is used and can compare it to the time saved after the restrictions have been in place. V4 would allow custom reply messages if anyone tries to contact the user while restrictions are in place.
