@@ -4,7 +4,6 @@
 Allows a user to set up events in a schedule either by day, multiple days, weeks, or months at the same time. The user can also enter events they want scheduled and the app can automatically place the events in the schedule by finding free time for the user, the user can also set parameters for the search.
 
 ### App Idea Evaluation
-// TODO: Evaluate app across the following categories using the App Evaluation Protocol.
 
 - Mobile: Website and mobile can both have the same focus. Desktop could be prioritized for scheduling and mobile can be streamlined for on the go adjustments and reminders
 - Story: Streamlines the scheduling of calendar events and allows the app to search for free time to schedule new events so the user doesn't have to spend time scheduling them.
