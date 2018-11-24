@@ -105,7 +105,9 @@ Streamlines the group project experience by Allowing members to instantly gauge/
 https://hackmd.io/pQbE39zsQuaHqbmuOytKeg#
 
 ### Wireframes
-// TODO: Add Wireframe Images
+<img src="https://i.imgur.com/1hE3wJ8.png" width=200><br>
+
+<img src="https://i.imgur.com/NN21bHg.gif" width=200><br>
 
 ---
 
