@@ -112,4 +112,4 @@ https://hackmd.io/pQbE39zsQuaHqbmuOytKeg#
 ---
 
 ### App Pitch Presentation
-[Link to Pitch Deck](https://csnedu-my.sharepoint.com/:p:/r/personal/5003400488_student_csn_edu/_layouts/15/Doc.aspx?sourcedoc=%7Bd43109e7-28e6-4706-a24b-7d8c35ced70a%7D&action=default)
+[Link to Pitch Deck](https://csnedu-my.sharepoint.com/:p:/g/personal/5003400488_student_csn_edu/EecJMdTmKAZHokt9jDXO1woBOnPhagPrHeGnYsHWABzbrA?e=Zve7PO)
