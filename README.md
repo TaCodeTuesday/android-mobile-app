@@ -105,11 +105,11 @@ Streamlines the group project experience by Allowing members to instantly gauge/
 https://hackmd.io/pQbE39zsQuaHqbmuOytKeg#
 
 ### Wireframes
-<img src="https://i.imgur.com/1hE3wJ8.png" width=200><br>
+<img src="https://i.imgur.com/fB6EX4W.png" width=200><br> <img src="https://i.imgur.com/YPvASjg.png" width=200><br>
 
-<img src="https://i.imgur.com/NN21bHg.gif" width=200><br>
+<img src="https://i.imgur.com/QsMaitI.gif" width=200><br>
 
 ---
 
 ### App Pitch Presentation
-// TODO: Add link to Pitch Presentation Deck
+[Link to Pitch Deck](https://csnedu-my.sharepoint.com/:p:/r/personal/5003400488_student_csn_edu/_layouts/15/Doc.aspx?sourcedoc=%7Bd43109e7-28e6-4706-a24b-7d8c35ced70a%7D&action=default)
